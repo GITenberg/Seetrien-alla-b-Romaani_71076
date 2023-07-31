@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47352'
     url: http://www.gutenberg.org/2009/agents/47352
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71076#Seetrien-alla-b-Romaani
 gutenberg_issued: '2023-06-30'
 identifiers:
   gutenberg: '71076'
